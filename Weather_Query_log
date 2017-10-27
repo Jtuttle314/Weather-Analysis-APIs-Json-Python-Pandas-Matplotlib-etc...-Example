@@ -1,300 +1,300 @@
 ----------------------
 Now logging city # 0
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hilo
-----------------------
-Now logging city # 1
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bowen
-----------------------
-Now logging city # 2
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=georgetown
-----------------------
-Now logging city # 3
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cherskiy
-----------------------
-Now logging city # 4
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=puerto ayora
-----------------------
-Now logging city # 5
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=upernavik
-----------------------
-Now logging city # 6
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=carnarvon
-----------------------
-Now logging city # 7
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bluff
-----------------------
-Now logging city # 8
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=new norfolk
-----------------------
-Now logging city # 9
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mataura
-----------------------
-Now logging city # 10
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mys shmidta
-----------------------
-Now logging city # 11
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=talcahuano
-----------------------
-Now logging city # 12
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=khatanga
-----------------------
-Now logging city # 13
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ginda
-----------------------
-Now logging city # 14
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=nikolskoye
-----------------------
-Now logging city # 15
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=upernavik
-----------------------
-Now logging city # 16
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=gizo
-----------------------
-Now logging city # 17
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=severo-kurilsk
-----------------------
-Now logging city # 18
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=busselton
-----------------------
-Now logging city # 19
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=saskylakh
-----------------------
-Now logging city # 20
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=maturin
-----------------------
-Now logging city # 21
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bredasdorp
-----------------------
-Now logging city # 22
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=esperance
-----------------------
-Now logging city # 23
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vestmannaeyjar
-----------------------
-Now logging city # 24
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=tarata
-----------------------
-Now logging city # 25
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=rawson
-----------------------
-Now logging city # 26
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bethel
-----------------------
-Now logging city # 27
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
-----------------------
-Now logging city # 28
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=pevek
-----------------------
-Now logging city # 29
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=punta arenas
-----------------------
-Now logging city # 30
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=dunedin
-----------------------
-Now logging city # 31
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=saint george
-----------------------
-Now logging city # 32
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=manaure
-----------------------
-Now logging city # 33
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
-----------------------
-Now logging city # 34
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=saskylakh
-----------------------
-Now logging city # 35
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=saint george
-----------------------
-Now logging city # 36
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=busselton
-----------------------
-Now logging city # 37
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
-----------------------
-Now logging city # 38
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=port alfred
-----------------------
-Now logging city # 39
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=kudahuvadhoo
-----------------------
-Now logging city # 40
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=talaya
-----------------------
-Now logging city # 41
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=tamulte
-----------------------
-Now logging city # 42
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
-----------------------
-Now logging city # 43
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mahebourg
-----------------------
-Now logging city # 44
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=nikolskoye
-----------------------
-Now logging city # 45
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ribeira grande
-----------------------
-Now logging city # 46
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
-----------------------
-Now logging city # 47
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=samarai
-----------------------
-Now logging city # 48
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hilo
-----------------------
-Now logging city # 49
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=beboto
-----------------------
-Now logging city # 50
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ilulissat
-----------------------
-Now logging city # 51
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=buala
-----------------------
-Now logging city # 52
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ribeira grande
-----------------------
-Now logging city # 53
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=amderma
-----------------------
-Now logging city # 54
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=puerto ayora
-----------------------
-Now logging city # 55
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=inndyr
-----------------------
-Now logging city # 56
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=sinnamary
-----------------------
-Now logging city # 57
 http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vardo
 ----------------------
-Now logging city # 58
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ribeira grande
+Now logging city # 1
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=amderma
 ----------------------
-Now logging city # 59
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lolua
+Now logging city # 2
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=corinto
 ----------------------
-Now logging city # 60
+Now logging city # 3
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=avarua
+----------------------
+Now logging city # 4
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=olafsvik
+----------------------
+Now logging city # 5
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
+----------------------
+Now logging city # 6
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=port elizabeth
+----------------------
+Now logging city # 7
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=qaanaaq
+----------------------
+Now logging city # 8
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lebu
+----------------------
+Now logging city # 9
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cockburn town
+----------------------
+Now logging city # 10
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
+----------------------
+Now logging city # 11
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=punta arenas
+----------------------
+Now logging city # 12
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=comodoro rivadavia
+----------------------
+Now logging city # 13
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=broken hill
+----------------------
+Now logging city # 14
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=paamiut
+----------------------
+Now logging city # 15
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=arkhara
+----------------------
+Now logging city # 16
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
+----------------------
+Now logging city # 17
 http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=new norfolk
 ----------------------
-Now logging city # 61
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=butaritari
+Now logging city # 18
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=waipawa
 ----------------------
-Now logging city # 62
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=port-cartier
+Now logging city # 19
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bethel
 ----------------------
-Now logging city # 63
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bluff
-----------------------
-Now logging city # 64
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=aklavik
-----------------------
-Now logging city # 65
+Now logging city # 20
 http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=east london
 ----------------------
-Now logging city # 66
+Now logging city # 21
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=harrismith
+----------------------
+Now logging city # 22
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bambous virieux
+----------------------
+Now logging city # 23
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=pitimbu
+----------------------
+Now logging city # 24
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
+----------------------
+Now logging city # 25
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ilulissat
+----------------------
+Now logging city # 26
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mokrousovo
+----------------------
+Now logging city # 27
 http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=rikitea
 ----------------------
+Now logging city # 28
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=umm kaddadah
+----------------------
+Now logging city # 29
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hambantota
+----------------------
+Now logging city # 30
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=spas
+----------------------
+Now logging city # 31
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=punta arenas
+----------------------
+Now logging city # 32
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lahij
+----------------------
+Now logging city # 33
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ubinskoye
+----------------------
+Now logging city # 34
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=busselton
+----------------------
+Now logging city # 35
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=sidi ali
+----------------------
+Now logging city # 36
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=boo
+----------------------
+Now logging city # 37
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=omboue
+----------------------
+Now logging city # 38
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=daru
+----------------------
+Now logging city # 39
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cherskiy
+----------------------
+Now logging city # 40
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=karamay
+----------------------
+Now logging city # 41
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=pincher creek
+----------------------
+Now logging city # 42
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=andenes
+----------------------
+Now logging city # 43
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=arlit
+----------------------
+Now logging city # 44
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=labuhan
+----------------------
+Now logging city # 45
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=tengzhou
+----------------------
+Now logging city # 46
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cochrane
+----------------------
+Now logging city # 47
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=punta alta
+----------------------
+Now logging city # 48
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=butaritari
+----------------------
+Now logging city # 49
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=new norfolk
+----------------------
+Now logging city # 50
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=baykalsk
+----------------------
+Now logging city # 51
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=khatanga
+----------------------
+Now logging city # 52
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bengkulu
+----------------------
+Now logging city # 53
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=qaanaaq
+----------------------
+Now logging city # 54
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=redmond
+----------------------
+Now logging city # 55
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ostrovnoy
+----------------------
+Now logging city # 56
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=buraydah
+----------------------
+Now logging city # 57
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ust-tsilma
+----------------------
+Now logging city # 58
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=provideniya
+----------------------
+Now logging city # 59
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lompoc
+----------------------
+Now logging city # 60
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=henties bay
+----------------------
+Now logging city # 61
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lorengau
+----------------------
+Now logging city # 62
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=qaanaaq
+----------------------
+Now logging city # 63
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=chandur
+----------------------
+Now logging city # 64
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hay river
+----------------------
+Now logging city # 65
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=castries
+----------------------
+Now logging city # 66
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vostok
+----------------------
 Now logging city # 67
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=anadyr
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=puerto ayora
 ----------------------
 Now logging city # 68
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vila velha
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vila franca do campo
 ----------------------
 Now logging city # 69
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=voyvozh
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=illoqqortoormiut
 ----------------------
 Now logging city # 70
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=avera
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
 ----------------------
 Now logging city # 71
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cidreira
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=belushya guba
 ----------------------
 Now logging city # 72
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=guerrero negro
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=korla
 ----------------------
 Now logging city # 73
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hilo
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=punta arenas
 ----------------------
 Now logging city # 74
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=north bend
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=arraial do cabo
 ----------------------
 Now logging city # 75
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=tiznit
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=busselton
 ----------------------
 Now logging city # 76
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=san quintin
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=rikitea
 ----------------------
 Now logging city # 77
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=turmalina
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lata
 ----------------------
 Now logging city # 78
 http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=taolanaro
 ----------------------
 Now logging city # 79
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=fairview
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=rikitea
 ----------------------
 Now logging city # 80
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=richards bay
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ancud
 ----------------------
 Now logging city # 81
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=gorontalo
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=narsaq
 ----------------------
 Now logging city # 82
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=paducah
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=busselton
 ----------------------
 Now logging city # 83
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=nenjiang
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ilula
 ----------------------
 Now logging city # 84
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=taolanaro
 ----------------------
 Now logging city # 85
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bengkulu
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=alofi
 ----------------------
 Now logging city # 86
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=pevek
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=dikson
 ----------------------
 Now logging city # 87
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=atuona
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=port alfred
 ----------------------
 Now logging city # 88
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=nawa
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ushuaia
 ----------------------
 Now logging city # 89
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=tumannyy
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ende
 ----------------------
 Now logging city # 90
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cabo san lucas
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=nanortalik
 ----------------------
 Now logging city # 91
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=husavik
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=ancud
 ----------------------
 Now logging city # 92
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=upernavik
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=lorengau
 ----------------------
 Now logging city # 93
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=amboise
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=vaini
 ----------------------
 Now logging city # 94
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=barentsburg
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=amahai
 ----------------------
 Now logging city # 95
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bail hongal
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=cape town
 ----------------------
 Now logging city # 96
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mys shmidta
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=mataura
 ----------------------
 Now logging city # 97
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=hilo
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bluff
 ----------------------
 Now logging city # 98
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=atuona
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=albany
 ----------------------
 Now logging city # 99
-http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=bluff
+http://api.openweathermap.org/data/2.5/weather?appid=924783bda048569443e49dd6a03e5591&units=imperial&q=smithers
